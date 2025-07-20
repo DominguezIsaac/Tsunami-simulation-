@@ -1,2 +1,0 @@
-In this project, you will find a set of codes that simulate the propagation of a tsunami.
-The model is based on the solution of the viscous Burgers’ equation, which describes the velocity of the wave at each point in space. The numerical method used to solve the Burgers’ equation is the Lax-Wendroff method, with appropriate boundary conditions to ensure the stability of the solution and prevent divergence.
